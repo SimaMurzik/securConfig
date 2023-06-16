@@ -3,7 +3,6 @@ import requests
 import threading
 import re
 import sys
-import os
 
 class MyZabbix:
     id = 1
